@@ -6,6 +6,12 @@
 <hr/>
 <h1 style="text-align: center">Hi there!</h1>
 <p style="font-size: 18px; text-align: center">My name is Matvey Shuvarikov. I'm a Data Scientist, and this is my GitHub page with examples of my code for different Data Science tasks.</a> 
+<p style="font-size: 18px; text-align: center">My current interests lie in the area of:</p>
+<ul style="list-style-type: disc; text-align: center;">
+    <li><strong>Algorithms</a></strong> Classic machine learning</li>
+    <li><strong>>Boosting</a></strong> Econometrics</li>
+    <li><strong>Clustering</a></strong> math statistics</li>
+</ul>
 </p>
 <hr/>
 <h3>Languages I currently use in my repositories.</h3>
