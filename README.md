@@ -2,7 +2,6 @@
 <div id="header" align="center">
 <img src="https://functionup.org/wp-content/uploads/2023/02/DataScientist_FeatureImage-1024x683-1.png" width="150"/>
 </div>
-<hr/>
 <p></p>
 <hr/>
 <h1 style="text-align: center">Hi there!</h1>
