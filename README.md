@@ -22,6 +22,6 @@
 <hr/>
 <p style="font-size: 18px; text-align: center">In this GitHub you may find repos:</p>
 <ul style="list-style-type: disc; text-align: center;">
-    <li><strong><a href="https://github.com/MathewShuvarikov/Python_and_R">Python_and_R</a></strong> Here you find my solutions to some classic ML and Econometric problems.</li>
-    <li><strong><a href="https://github.com/MathewShuvarikov/Mathews_Kinopoisk_parcing">Mathews_Kinopoisk_parcing</a></strong> Movie site parcer with further data transition ib Neo4j database.</li>
+    <li><strong><a href="https://github.com/MathewShuvarikov/Python_and_R">Python_and_R.</a></strong> Here you find my solutions to some classic ML and Econometric problems.</li>
+    <li><strong><a href="https://github.com/MathewShuvarikov/Mathews_Kinopoisk_parcing">Mathews_Kinopoisk_parcing.</a></strong> Movie site parcer with further data transition ib Neo4j database.</li>
 </ul>
