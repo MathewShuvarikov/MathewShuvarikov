@@ -11,7 +11,7 @@
     <li><strong>Data Scientist in Sberbank (Dec 2023 - n.d.)</a></strong>
     <li><strong>Master in Applied Mathematics and Computer Science (2023-2025)</a></strong>
     <li><strong>Bachelor in Economics (2019-2023)</a></strong>
-
+</ul>
 <p style="font-size: 18px; text-align: center">My current interests lie in the area of:</p>
 <ul style="list-style-type: disc; text-align: center;">
     <li><strong> Classic machine learning</a></strong>
