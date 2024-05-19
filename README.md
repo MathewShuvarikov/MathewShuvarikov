@@ -21,17 +21,13 @@
 </tr> 
 <tr>
   <td>Sberbank</td>
-  <td>Корпоративно-инвестиционный бизнес</td>
+  <td>Department for Dealing with Distressed Assets</td>
   <td>Data Scientist</td>
   <td> </td>
   <td>13.12.2023</td>
   <td>n.d.</td>
 </tr> 
 
-<ul style="list-style-type: disc; text-align: center;">
-    <li><strong>Data Scientist in Sberbank (Dec 2023 - n.d.)</a></strong>
-    <li><strong>Master in Applied Mathematics and Computer Science (2023-2025)</a></strong>
-    <li><strong>Bachelor in Economics (2019-2023)</a></strong>
 </ul>
 <p style="font-size: 18px; text-align: center">My current interests lie in the area of:</p>
 <ul style="list-style-type: disc; text-align: center;">
