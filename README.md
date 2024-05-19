@@ -30,7 +30,7 @@
 </table>
 
 </ul>
-<p style="font-size: 18px; text-align: center">My current interests lie in the area of:</p>
+<h2>My current interests lie in the area of:</h2>
 <ul style="list-style-type: disc; text-align: center;">
     <li><strong> Classic machine learning</a></strong>
     <li><strong>Econometrics</a></strong>
