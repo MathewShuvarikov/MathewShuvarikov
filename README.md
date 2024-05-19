@@ -24,7 +24,7 @@
   <td>Department for Dealing with Distressed Assets</td>
   <td>Data Scientist</td>
   <td>1) Created 2 SOTA models for classic binary classification;<br>
-2) Confirmed the financial effect of the introduction of one of the AI models;<br>
+2) Confirmed the financial effect (for 3%) of the introduction of one of the AI models;<br>
 3) Introduced a new methodology for conducting A/B tests;</td>
   <td>13.12.2023</td>
   <td>n.d.</td>
