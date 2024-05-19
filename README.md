@@ -6,8 +6,7 @@
 <hr/>
 <h1 style="text-align: center">Hi there!</h1>
 <p style="font-size: 18px; text-align: center">My name is Matvey Shuvarikov. I'm a Data Scientist, and this is my GitHub page with examples of my code for different Data Science tasks.</a> 
-<p style="font-size: 18px; text-align: center">My professional and educational experience:</a>
-
+# My professional and educational experience:
 <table>
 <tr>
   <th rowspan="2">Company</th>
@@ -17,8 +16,8 @@
   <th colspan="2">Period</th>
 </tr> 
 <tr> 
- <th>С</th>
- <th>По</th>
+ <th>From</th>
+ <th>To</th>
 </tr> 
 <tr>
   <td>Sberbank</td>
