@@ -11,7 +11,7 @@
 <tr>
   <th rowspan="2">Company</th>
   <th rowspan="2">Department</th>
-  <th rowspan="2">Positions</th>
+  <th rowspan="2">Position</th>
   <th rowspan="2">Archievments</th>
   <th colspan="2">Period</th>
 </tr> 
