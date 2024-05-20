@@ -30,7 +30,36 @@
   <td>n.d.</td>
 </tr> 
 </table>
-
+<h2>My educational experience:</h2>
+<table>
+<tr>
+  <th rowspan="2">University</th>
+  <th rowspan="2">Faculty</th>
+  <th rowspan="2">Degree</th>
+  <th rowspan="2">Archievments</th>
+  <th colspan="2">Period</th>
+</tr> 
+<tr> 
+ <th>From</th>
+ <th>To</th>
+</tr> 
+<tr>
+  <td>Finance University under the Government of the Russian Federation</td>
+  <td>Faculty of Information Technology and Big Data Analysis</td>
+  <td>Master in Applied Mathematics and Computer Science</td>
+  <td></td>
+  <td>01.09.2023</td>
+  <td>n.d.</td>
+</tr> 
+<tr>
+  <td>Finance University under the Government of the Russian Federation</td>
+  <td>Faculty of Economics and Business</td>
+  <td>Bachelor in Economics</td>
+  <td></td>
+  <td>01.09.2019</td>
+  <td>31.08.2023</td>
+</tr> 
+</table>
 </ul>
 <h2>My current interests lie in the area of:</h2>
 <ul style="list-style-type: disc; text-align: center;">
@@ -40,7 +69,7 @@
 </ul>
 </p>
 <hr/>
-<h3>Languages I currently use in my repositories.</h3>
+<h3>Languages I currently use in my repositories:</h3>
 <div class="image-container">
     <img src="https://lamcdn.net/lookatme.ru/post-og_image/PZWCGcd7HqaHizrqp_pg5A.jpg" width="130" height="80"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" width="100" height="70"/>
