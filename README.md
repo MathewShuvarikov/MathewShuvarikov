@@ -30,7 +30,7 @@
   <td>n.d.</td>
 </tr> 
 </table>
-<h2>My educational experience:</h2>
+<h2>My education:</h2>
 <table>
 <tr>
   <th rowspan="2">University</th>
@@ -55,7 +55,8 @@
   <td>Finance University under the Government of the Russian Federation</td>
   <td>Faculty of Economics and Business</td>
   <td>Bachelor in Economics</td>
-  <td></td>
+  <td>1) Wrote and published 4 science papers on finance and econometrics in the Higher Attestation Commission journals;<br>
+2) Twice winner of the international competition of scientific papers of students and postgraduates (both papers are on applied econometrics); br></td>
   <td>01.09.2019</td>
   <td>31.08.2023</td>
 </tr> 
