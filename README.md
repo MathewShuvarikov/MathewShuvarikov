@@ -47,7 +47,7 @@
   <td>Finance University under the Government of the Russian Federation</td>
   <td>Faculty of Information Technology and Big Data Analysis</td>
   <td>Master in Applied Mathematics and Computer Science</td>
-  <td>Created a web-app for housing price prediction in Moscow <br></td>
+  <td> 1) Created a web-app for housing price prediction in Moscow; <br></td>
   <td>01.09.2023</td>
   <td>n.d.</td>
 </tr> 
