@@ -55,7 +55,7 @@
   <td>Finance University under the Government of the Russian Federation</td>
   <td>Faculty of Economics and Business</td>
   <td>Bachelor in Economics</td>
-  <td>1) Wrote and published 4 scientific papers on finance and econometrics in the Higher Attestation Commission journals;<br>
+  <td>1) Wrote and published 4 scientific papers on finance and econometrics for the Higher Attestation Commission journals;<br>
 2) Twice winner of the international competition of scientific papers of students and postgraduates (in 2022 and 2023, both papers are on applied econometrics); <br></td>
   <td>01.09.2019</td>
   <td>31.08.2023</td>
