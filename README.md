@@ -80,5 +80,5 @@
 <ul style="list-style-type: disc; text-align: center;">
     <li><strong><a href="https://github.com/MathewShuvarikov/Python_and_R">Python_and_R.</a></strong> Here you find my beginner's solutions to some classic ML and Econometric problems.</li>
     <li><strong><a href="https://github.com/MathewShuvarikov/Mathews_Kinopoisk_parcing">Mathews_Kinopoisk_parcing.</a></strong> Movie site parcer with further data transition to Neo4j database.</li>
-    <li><strong><a href="https://github.com/MathewShuvarikov/pabd24">pabd2024.</a></strong> My educational project, where I create an app predicting price for apartments.</li>
+    <li><strong><a href="https://github.com/MathewShuvarikov/pabd24">pabd2024.</a></strong> My educational project, where I have created a web-app for housing price prediction.</li>
 </ul>
