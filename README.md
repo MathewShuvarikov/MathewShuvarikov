@@ -1,6 +1,6 @@
 <p></p>
 <div id="header" align="center">
-<img src="https://github.com/MathewShuvarikov/MathewShuvarikov/blob/main/data-science-new-banner.jpg" width="300" height="180"/>
+<img src="https://github.com/MathewShuvarikov/MathewShuvarikov/blob/main/data-science-new-banner.jpg" width="400" height="240"/>
 </div>
 <p></p>
 <hr/>
