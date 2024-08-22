@@ -1,6 +1,6 @@
 <p></p>
 <div id="header" align="center">
-<img src="https://functionup.org/wp-content/uploads/2023/02/DataScientist_FeatureImage-1024x683-1.png" width="150"/>
+<img src="https://github.com/MathewShuvarikov/MathewShuvarikov/blob/main/data-science-new-banner.jpg" width="150"/>
 </div>
 <p></p>
 <hr/>
