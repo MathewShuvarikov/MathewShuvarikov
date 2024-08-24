@@ -65,8 +65,8 @@
 <h2>My current interests lie in the area of:</h2>
 <ul style="list-style-type: disc; text-align: center;">
     <li><strong> Classic machine learning</a></strong>
-    <li><strong>Econometrics</a></strong>
     <li><strong>Math statistics</a></strong>
+    <li><strong>Econometrics</a></strong>
     <li><strong>NLP</a></strong>
     <li><strong>CV</a></strong>
 </ul>
