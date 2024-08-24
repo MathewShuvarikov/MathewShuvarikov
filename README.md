@@ -67,6 +67,8 @@
     <li><strong> Classic machine learning</a></strong>
     <li><strong>Econometrics</a></strong>
     <li><strong>Math statistics</a></strong>
+    <li><strong>NLP</a></strong>
+    <li><strong>CV</a></strong>
 </ul>
 </p>
 <hr/>
