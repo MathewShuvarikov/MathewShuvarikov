@@ -23,9 +23,10 @@
   <td>Sberbank</td>
   <td>Department for Dealing with Distressed Assets</td>
   <td>Data Scientist</td>
-  <td>1) Created 2 SOTA models for classic binary classification;<br>
+  <td>1) Created 2 SOTA models for classic binary classification (90+ ROC AUC);<br>
 2) Confirmed the financial effect (for 13%) of the introduction of one of the AI models;<br>
-3) Introduced a new methodology for conducting A/B tests;</td>
+3) Created a brand new transformer model, which beat the boosting score by 5 ROC AUC;<br>
+4) Introduced a new methodology for conducting A/B tests (effect was increased be 2%);</td>
   <td>13.12.2023</td>
   <td>n.d.</td>
 </tr> 
