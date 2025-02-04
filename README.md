@@ -23,10 +23,7 @@
   <td>Sberbank</td>
   <td>Department for Dealing with Distressed Assets</td>
   <td>Middle Data Scientist</td>
-  <td>1) Created SOTA binary classifier cleaning invalid phone numbers for the call center with estimated effect of 200 mln rubles;<br>
-2) Confirmed the financial effect (for 13%, 220 mln rubles) of the introduction of one of the AI models;<br>
-3) Created a brand new transformer model, which beat the boosting score by 5 ROC AUC;<br>
-4) Introduced a new methodology for conducting A/B tests (the effect for 800 mln rubles was confirmed);</td>
+  <td>
   <td>29.11.2024</td>
   <td>n.d.</td>
 </tr>
