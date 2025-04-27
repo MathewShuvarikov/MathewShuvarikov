@@ -23,7 +23,7 @@
   <td>Sberbank</td>
   <td>Department for Dealing with Distressed Assets</td>
   <td>Middle Data Scientist</td>
-  <td>
+   <td>1) Created model of answering machine filtering for call center, which decreased their number 3.5 times</td>
   <td>29.11.2024</td>
   <td>n.d.</td>
 </tr>
