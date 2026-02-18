@@ -20,11 +20,11 @@
  <th>To</th>
 </tr>
 <tr>
-  <td>Sberbank</td>
-  <td>Department for Dealing with Distressed Assets</td>
+  <td>T-Bank (former Tinkoff bank)</td>
+  <td>Compliance</td>
   <td>Middle Data Scientist</td>
-   <td>1) Created model of answering machine filtering for call center, which decreased their number 3.5 times</td>
-  <td>29.11.2024</td>
+   <td>1) </td>
+  <td>28.10.2025</td>
   <td>n.d.</td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@
   <td>Middle Data Scientist</td>
    <td>1) Created model of answering machine filtering for call center, which decreased their number 3.5 times</td>
   <td>29.11.2024</td>
-  <td>n.d.</td>
+  <td>21.10.2025</td>
 </tr>
 <tr>
   <td>Sberbank</td>
